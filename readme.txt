@@ -3,7 +3,7 @@ Contributors: Rameez_Iqbal
 Donate link: http://webcodingplace.com/contact-us/
 Tags: bootstrap, widget, responsive, theme, thumbnail, sidebar, easy, simple, footer, image, upload, library, styles
 Requires at least: 3.5
-Tested up to: 3.9.2
+Tested up to: 4.0
 Stable tag: 1.2.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -13,7 +13,7 @@ This is a simplest plugin to add responsive images to sidebars.
 == Description ==
 
 Add images in widget areas with lots of features. Responsive images with different styles and also link option for images.
-
+<a href="http://webcodingplace.com/image-in-widget/#demo">DEMO</a>
 <h3>Features</h3>
 <ol>
 	<li>Responsive</li>
