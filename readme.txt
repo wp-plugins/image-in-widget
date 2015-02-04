@@ -4,7 +4,7 @@ Donate link: http://webcodingplace.com/contact-us/
 Tags: bootstrap, widget, responsive, theme, thumbnail, sidebar, easy, simple, footer, image, upload, library, styles
 Requires at least: 3.5
 Tested up to: 4.1
-Stable tag: 1.3
+Stable tag: 2.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -17,6 +17,7 @@ Add images in widget areas with lots of features. Responsive images with differe
 <h3>Features</h3>
 <ol>
 	<li>Translation ready</li>
+	<li>Cross browser compatible styles</li>
 	<li>Responsive</li>
 	<li>Use from library</li>
 	<li>Upload from PC</li>
@@ -49,6 +50,14 @@ Add images in widget areas with lots of features. Responsive images with differe
 
 = 1.2.1 =
 * Translation ready.
+
+= 2.0 =
+* Remove link option.
+* Cross browser compatible.
+* Widget preview bug fixed.
+* New image uploader.
+* Upload script will run only on widgets.php, that will not slow down the dashboard.
+* Styles conflict solved.
 
 = 1.3 =
 * Image preview in admin screen.
