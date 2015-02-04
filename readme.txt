@@ -41,15 +41,9 @@ Add images in widget areas with lots of features. Responsive images with differe
 == Screenshots ==
 
 1. Easy to use interface.
-1. Description field added.
+1. Preview in site.
 
 == Changelog ==
-
-= 1.2.0 =
-* Description field added.
-
-= 1.2.1 =
-* Translation ready.
 
 = 2.0 =
 * Remove link option.
@@ -62,6 +56,12 @@ Add images in widget areas with lots of features. Responsive images with differe
 = 1.3 =
 * Image preview in admin screen.
 * Open image link in new tab or same tab.
+
+= 1.2.1 =
+* Translation ready.
+
+= 1.2.0 =
+* Description field added.
 
 == Upgrade Notice ==
 
