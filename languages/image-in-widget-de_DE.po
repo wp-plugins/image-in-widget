@@ -1,0 +1,59 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Image in Widget\n"
+"POT-Creation-Date: 2015-06-24 12:23+0500\n"
+"PO-Revision-Date: 2015-06-24 12:33+0500\n"
+"Last-Translator: \n"
+"Language-Team: WebCodingPlace <rameez.iqbal@live.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: C:\\xampp\\htdocs\\wordpress\\wp-content\\plugins"
+"\\2.1\n"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.1/plugin.class.php:96
+msgid "Paste URL or upload Image"
+msgstr "Paste URL oder hochladen Bild"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.1/plugin.class.php:103
+msgid "Upload"
+msgstr "hochladen"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.1/plugin.class.php:109
+msgid "Image title"
+msgstr "Titel des Bildes"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.1/plugin.class.php:118
+msgid "Alternate text"
+msgstr "Alternativtext"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.1/plugin.class.php:128
+msgid "Link to"
+msgstr "Link zu"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.1/plugin.class.php:135
+msgid "Leaving blank will link to image itself"
+msgstr "Verlassen blank Willen Link zu Bild selbst"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.1/plugin.class.php:140
+msgid "Open link in new tab"
+msgstr "Link in neuem Tab"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.1/plugin.class.php:145
+msgid "Remove link from image"
+msgstr "Link von Bild entfernen"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.1/plugin.class.php:150
+msgid "Zoom on Hover"
+msgstr "Zoom auf Hover"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.1/plugin.class.php:154
+msgid "Image style"
+msgstr "Bild-Stil"
+
+#: C:\xampp\htdocs\wordpress\wp-content\plugins\2.1/plugin.class.php:163
+msgid "Description (You can use HTML tags here)"
+msgstr "Beschreibung (Sie können HTML-Tags hier verwenden)"
